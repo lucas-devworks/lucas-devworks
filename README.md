@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Teixeira Santos, tenho 23 anos e moro em Santa Luzia - MG. Atualmente estou cursando uma graduação em ADS (Análise e Desenvolvimento de Sistemas) na Estácio. Sou suspeito a dizer que a tecnologia mudou a minha vida em vários aspectos. Depois que eu comecei a estudar nessa área, sinto que me encontrei... E quero evoluir cada dia mais! Embora a rotina da vida adulta, faço o possível para estudar frequentemente e no momento eu trabalho com tecnologia, não diretamente com programação, mas sim em uma escola de cursos que predominantemente lida com alunos de informática e programação. Graças ao ambiente, estou muito ligado com a área, e tenho a intenção de migrar efetivamente para o ramo da T.I.
+Me chamo Lucas Teixeira Santos, tenho 23 anos e moro em Santa Luzia - MG. Atualmente estou cursando uma graduação em ADS (Análise e Desenvolvimento de Sistemas) na Estácio. Sou suspeito a dizer que a tecnologia mudou a minha vida em vários aspectos. Depois que eu comecei a estudar nessa área, minha maneira de enxergar as coisas mudou radicalmente, estudar tecnologia não é apenas uma área com começo meio e fim, é muito mais, torna-se parte da nossa identidade, olhamos para o mundo seguindo princípios abordados no pensamento computacional. "Pegue um programa grande, divida-o em partes menores, e resolva isoladamente cada ponto."
 
 <p align="left"> 
     <a href="https://github.com/lucas-devworks?tab=repositories&sort=stargazers">
