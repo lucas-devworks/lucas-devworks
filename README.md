@@ -2,24 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Teixeira Santos, tenho 23 anos e moro em Santa Luzia - MG. Atualmente estou cursando uma graduação em ADS (Análise e Desenvolvimento de Sistemas) na Estácio. Sou suspeito a dizer que a tecnologia mudou a minha vida em vários aspectos. Depois que eu comecei a estudar nessa área, minha maneira de enxergar as coisas mudou radicalmente, estudar tecnologia não é apenas uma área com começo meio e fim, é muito mais, torna-se parte da nossa identidade, olhamos para o mundo seguindo princípios abordados no pensamento computacional. "Pegue um problema grande, divida-o em partes menores, e resolva isoladamente cada ponto."
-
-<p align="left"> 
-    <a href="https://github.com/lucas-devworks?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucas-devworks?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lucas-devworks?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lucas-devworks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>  
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio, entusiasta da tecnologia e focado em resolução de problemas. Enxergo a tecnologia não apenas como carreira, mas como uma forma de pensar baseada no pensamento computacional: quebrar grandes problemas em partes menores para resolvê-los de maneira ágil e isolada.
 
 ---
 
@@ -99,24 +82,3 @@ Me chamo Lucas Teixeira Santos, tenho 23 anos e moro em Santa Luzia - MG. Atualm
 />
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucas-devworks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-devworks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
-</p>
